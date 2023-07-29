@@ -3,8 +3,7 @@
 Here is a geographic educational game through which you can learn about Saudi cities and their locations on the map.
 
 Two libraries were used in the project
-  First: Pandas
-  Second: turtle
+  First: Pandas , Second: turtle
 
 Enjoy..
 
